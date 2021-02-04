@@ -1,0 +1,4 @@
+name = "SACSMA"
+uuid = "bff6b8d6-ba9c-4794-b9cb-48f1f85a7023"
+authors = ["KMarkert <kel.markert@gmail.com>"]
+version = "0.1.0"
